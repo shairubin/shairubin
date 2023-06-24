@@ -1,5 +1,5 @@
-
 <pre>
+  <h2>Shai Rubin Ph.D.</h2>                    
                     There once was a coder, skilled and bright, 
                     Whose talent soared to new heights. 
                     Promoted to manager, they took the lead, 
@@ -28,6 +28,7 @@
                   
                                                 Myself and ChatGPT 2023
 </pre>
+
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/shairubin">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
